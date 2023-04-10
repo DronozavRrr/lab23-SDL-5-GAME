@@ -6,7 +6,7 @@
 #include "SDL_image.h"
 #include <cmath>
 #include "SDL_mixer.h"
-
+//anton loh
 SDL_Texture* get_text_texture(SDL_Renderer*& renderer, char* text, TTF_Font* font)
 {
 	SDL_Surface* textSurface = NULL;
